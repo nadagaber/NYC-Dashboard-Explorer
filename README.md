@@ -14,7 +14,7 @@ The dashboard is designed to provide an interactive and insightful exploration o
 
 Features:
 
-Interactive Visualizations: The dashboard offers interactive visualizations such as pie charts, bar charts, heatmaps, and more, allowing users to explore data dynamically and gain insights through visualization.
+Interactive Visualizations: The dashboard offers interactive visualizations such as pie charts and bar charts, allowing users to explore data dynamically and gain insights through visualization.
 
 Data Filtering: Users can filter the data based on different variables and conditions to focus on specific aspects of interest. Dropdown menus and other input controls are provided for easy filtering.
 
